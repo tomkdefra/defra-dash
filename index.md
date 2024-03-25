@@ -1,6 +1,23 @@
 ---
-title: DASH Home
-layout: home
+layout: default
+title: Home
+nav_order: 1
+description: "The DASH programme aims to provide support and training for data 
+scientists across Defra Group, function as a demonstrator for data science approaches, 
+and develop community and capability across the Defra Group."
+permalink: /
+---
+
+# Data Analytics & Science Hub (DASH)
+{: .fs-9 }
+
+The Data, Analytics & Science Hub (DASH) is a service providing support to data 
+scientists across Defra group.
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 The Data Analytics and Science Hub (DASH) brings together existing 

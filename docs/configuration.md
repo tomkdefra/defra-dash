@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Overview
 nav_order: 2
 ---
 
