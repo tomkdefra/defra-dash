@@ -1,24 +1,17 @@
 ---
 layout: default
-title: Overview
-nav_order: 2
+title: Get Started
+nav_order: 3
+has_children: true
+permalink: /docs/get-started
 ---
 
-# Configuration
+# Get Started
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+This page provides instructions for setting up the accounts and completing MyIT 
+requests that you will need to use the DASH platform.
 {: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
 ## Site logo
 
