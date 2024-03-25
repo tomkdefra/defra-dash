@@ -2,7 +2,7 @@
 layout: default
 title: Sign Up
 parent: Get Started
-nav_order: 2
+nav_order: 3
 ---
 
 
