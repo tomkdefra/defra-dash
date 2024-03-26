@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sign Up
+title: 1. Sign Up
 parent: Get Started
 nav_order: 3
 ---
