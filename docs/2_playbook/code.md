@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: Platform Components
+parent: DASH Playbook
 has_children: true
-nav_order: 6
+nav_order: 3
 ---
 
-# Code
+# Platform Components
 {: .no_toc }
 
 ## Table of contents
@@ -17,7 +17,7 @@ nav_order: 6
 
 ---
 
-## Inline code
+## Computing resources
 
 Code can be rendered inline by wrapping it in single back ticks.
 
