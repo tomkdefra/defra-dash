@@ -2,6 +2,8 @@ title: DASH
 description: Defra Data Analytics & Science Hub
 theme: just-the-docs
 
+color_scheme: dash-colours
+
 url: https://tomkdefra.github.io/defra-dash/
 
 aux_links:
