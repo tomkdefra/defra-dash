@@ -3,7 +3,7 @@ layout: default
 title: Get Started
 nav_order: 2
 has_children: true
-permalink: /defra-dash/docs/get-started
+permalink: /docs/get-started
 ---
 
 # Get Started
