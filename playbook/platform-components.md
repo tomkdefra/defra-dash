@@ -4,7 +4,7 @@ title: Platform Components
 parent: Playbook
 has_children: true
 nav_order: 2
-permalink: /docs/playbook/platform-components
+permalink: /playbook/platform-components
 ---
 
 # Platform Components

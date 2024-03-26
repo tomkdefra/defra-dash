@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 parent: Playbook
 nav_order: 1
-permalink: /docs/playbook/introduction
+permalink: /playbook/introduction
 ---
 
 # Introduction
