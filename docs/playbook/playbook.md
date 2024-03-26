@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DASH Playbook
+title: Playbook
 nav_order: 3
 has_children: true
 permalink: /docs/playbook
