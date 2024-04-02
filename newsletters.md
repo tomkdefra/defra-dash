@@ -1,30 +1,17 @@
 ---
-layout: default
+layout: post
 title: News
 nav_order: 99
-description: "NEWSSSS"
+description: "NEWS"
 permalink: /news
 ---
 
-# Stuuf
+# DASH's Data Science newsletter
 
 ---
 
-The Data Analytics and Science Hub (DASH) brings together existing 
-Defra Group data science expertise, data science experience, and policymakers, 
-delivery and leadership.
+DASH produces a quarterly newsletter, which includes updates from the DASH team, the latest releases on the DASH platform, and information about data science community events.
 
-DASH aims to provide support and training for data scientists across Defra Group, 
-function as a demonstrator for data science approaches, and develop community and 
-capability across the Defra Group.
+If you'd like to learn more about DASH and read past editions, all our newsletters are posted on this page.
 
-The Data Analytics and Science Hub (DASH) Platform enables the Defra Group to 
-deliver more value from its data, enabling analysis and modelling to answer some 
-key policy questions. It will store and manage the critical data needed for analysis 
-centrally, provide governed access and offer an evolving set of tools and applications 
-to analysts, scientists, data scientists and policy makers; giving them everything 
-they need to access, process, analyse and visualise data.
-
-The DASH team is based in the Central Analysis and Insights Division (CAID) in 
-Defra and consists of a blended team working in collaboration with a wide range 
-of directorates and arms lengths bodies. 
+We would love to hear from you: whether that is a project you are working on, interesting events you have attended or general data science news - please get in touch. We will endeavour to include suggestions in our next edition.
