@@ -3,6 +3,7 @@ layout: default
 title: Computing Resources
 parent: Platform Components
 grand_parent: Playbook
+nav_order: 1
 ---
 
 # Computing Resources
