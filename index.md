@@ -19,21 +19,6 @@ scientists across Defra group.
 
 ---
 
-The Data Analytics and Science Hub (DASH) brings together existing 
-Defra Group data science expertise, data science experience, and policymakers, 
-delivery and leadership.
+Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.
 
-DASH aims to provide support and training for data scientists across Defra Group, 
-function as a demonstrator for data science approaches, and develop community and 
-capability across the Defra Group.
-
-The Data Analytics and Science Hub (DASH) Platform enables the Defra Group to 
-deliver more value from its data, enabling analysis and modelling to answer some 
-key policy questions. It will store and manage the critical data needed for analysis 
-centrally, provide governed access and offer an evolving set of tools and applications 
-to analysts, scientists, data scientists and policy makers; giving them everything 
-they need to access, process, analyse and visualise data.
-
-The DASH team is based in the Central Analysis and Insights Division (CAID) in 
-Defra and consists of a blended team working in collaboration with a wide range 
-of directorates and arms lengths bodies. 
+Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.

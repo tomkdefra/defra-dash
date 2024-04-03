@@ -8,8 +8,4 @@ nav_order: 1
 
 # Sign up for an account using MyIT 
 
-The DASH Platform is currently in public beta and access to the platform can be 
-requested through the link above, which takes you to the MyPortal DASH Order Guide 
-(you may need to be signed in to MyPortal to use this link, or use the ‘external 
-login’ option). The form can be accessed through MyPortal, by typing ‘DASH’ into 
-the search bar and entering the DASH Order Guide. 
+Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.

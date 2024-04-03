@@ -12,7 +12,7 @@ Previously known as RS Connect.
 
 ## Use case
 
-The Posit server enables data scientists to deploy content to co-developers and the wider Defra Group. Connect supports a range of data products including;
+Quisque vitae varius enim, non interdum ex. Aliquam sed felis euismod dui porta convallis at vitae felis. Fusce ultricies massa hendrerit sem eleifend venenatis. Donec rutrum magna et arcu volutpat consectetur. Morbi at dolor et dui bibendum rutrum. Nunc at sem magna. Phasellus accumsan eros et elementum ultricies. Vivamus eget ex neque. Maecenas vitae mi lacus. Cras ullamcorper est malesuada nibh iaculis gravida. Etiam eget condimentum nisi, vel commodo ipsum.
 
 -   Applications - [R Shiny](https://docs.rstudio.com/connect/user/shiny/), [Dash](https://docs.rstudio.com/connect/user/dash/), [Streamlit](https://docs.rstudio.com/connect/user/streamlit/), and [Bokeh](https://docs.rstudio.com/connect/user/bokeh/)
 -   Documents - [R Markdown](https://docs.rstudio.com/connect/user/rmarkdown/),[Quarto](https://docs.rstudio.com/connect/user/quarto/),[Jupyter Notebooks](https://docs.rstudio.com/connect/user/jupyter-notebook/)

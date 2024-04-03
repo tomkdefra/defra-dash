@@ -13,10 +13,12 @@ permalink: /playbook/introduction
 The Data, Analytics & Science Hub (DASH) is a service providing support to data scientists across Defra group. This support will be provided through:
 {: .fs-6 .fw-300 }
 
-- The provision of reliable and easily accessible data, advanced tooling, and scalable compute through our cloud computing platform.
-- The provision of specialised data science training offerings to upskill data scientists.
-- The support and coordination of the wider data science community and embedding governance processes which enable this community to work effectively and apply their expertise towards the development of the novel and complex analytics needed for policy design and delivery.
+- Quisque vitae varius enim, non interdum ex.
+- Aliquam sed felis euismod dui porta convallis at vitae felis. Fusce ultricies massa hendrerit sem eleifend venenatis.
+- Nunc at sem magna. Phasellus accumsan eros et elementum ultricies. Vivamus eget ex neque. Maecenas vitae mi lacus. Cras ullamcorper est malesuada nibh iaculis gravida. Etiam eget condimentum nisi, vel commodo ipsum.
 
 ## Data Analytics and Science Hub Platform (DASH Platform)
 
-The DASH platform is being developed to provide analysts and scientists within Defra group access to a wider range of datasets, advanced tooling and compute power. It is a cloud-based platform built in Microsoft Azure. Its purpose is to give users access to powerful computing resources, data, and up-to-date tools for data science and analysis. The focus has been on building a scalable and flexible platform to scale computing power with demand and provide a cost-effective service that can meet the changing needs of Defra’s data science and data analysis community.
+Quisque vitae varius enim, non interdum ex. Aliquam sed felis euismod dui porta convallis at vitae felis. Fusce ultricies massa hendrerit sem eleifend venenatis. Donec rutrum magna et arcu volutpat consectetur. Morbi at dolor et dui bibendum rutrum. Nunc at sem magna. Phasellus accumsan eros et elementum ultricies. Vivamus eget ex neque. Maecenas vitae mi lacus. Cras ullamcorper est malesuada nibh iaculis gravida. Etiam eget condimentum nisi, vel commodo ipsum.
+
+Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.

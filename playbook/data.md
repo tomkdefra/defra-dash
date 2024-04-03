@@ -12,14 +12,6 @@ nav_order: 2
 
 ### Use case
 
-The use case for the Data Lake is to provide a storage environment for data items which are:
-  
--   Over 2 GB file size  (We hold smaller datasets than this, the 2GB only relates to the max size that users can load data themselves)
+Quisque vitae varius enim, non interdum ex. Aliquam sed felis euismod dui porta convallis at vitae felis. Fusce ultricies massa hendrerit sem eleifend venenatis. Donec rutrum magna et arcu volutpat consectetur. Morbi at dolor et dui bibendum rutrum. Nunc at sem magna. Phasellus accumsan eros et elementum ultricies. Vivamus eget ex neque. Maecenas vitae mi lacus. Cras ullamcorper est malesuada nibh iaculis gravida. Etiam eget condimentum nisi, vel commodo ipsum.
 
--   Covered by security or licencing constraints (We hold open datasets as well)
-
--   Likely to be widely useful across Defra group
-
-The Data Lake also allows for automated pipelines to update data at regular intervals and provide pre-processing if required. This data can be of any size or format, although there are formats that are better suited for use on the DASH Platform (see section \@ref(parquet)).
-
-Data stored in the base zone of the Data Lake (see \@ref(data-lake-zones)) is linked to the DASH data catalogue and will enable the sharing of data with other DASH Platform users.
+Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.
