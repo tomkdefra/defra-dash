@@ -5,8 +5,75 @@ parent: Get Started
 nav_order: 3
 ---
 
-# Code Sharing and Collaboration on GitHub
+# Generating and Adding an SSH Key to GitHub Using Git Bash
 
-Quisque vitae varius enim, non interdum ex. Aliquam sed felis euismod dui porta convallis at vitae felis. Fusce ultricies massa hendrerit sem eleifend venenatis. Donec rutrum magna et arcu volutpat consectetur. Morbi at dolor et dui bibendum rutrum. Nunc at sem magna. Phasellus accumsan eros et elementum ultricies. Vivamus eget ex neque. Maecenas vitae mi lacus. Cras ullamcorper est malesuada nibh iaculis gravida. Etiam eget condimentum nisi, vel commodo ipsum.
+This guide provides step-by-step instructions to open Git Bash, see the contents of a directory, generate an SSH key, and add it to GitHub.
 
-Phasellus egestas dapibus diam in vulputate. Suspendisse venenatis at nisi non semper. Pellentesque lectus est, aliquam sed fringilla non, convallis sit amet ante. Duis diam ante, tempus a euismod ut, dapibus et nisl. Vestibulum aliquam purus libero, eget egestas metus cursus quis. Phasellus risus velit, eleifend vel ante at, commodo porta enim. Praesent id quam odio. Nam lectus tellus, pharetra et dictum at, elementum nec justo. Mauris pharetra libero eu eros eleifend dictum. Nunc urna nulla, luctus non odio id, gravida viverra diam. Praesent fringilla neque efficitur mauris finibus, nec sodales tellus tincidunt. Curabitur nunc purus, pharetra a sapien ac, elementum ornare velit. Cras ut justo consectetur, malesuada lorem non, gravida mi. Maecenas mauris dolor, cursus sit amet quam quis, tristique porta felis.
+### Step 1: Open Git Bash
+1. **Click on the Start Menu**:
+    - Click on the Windows icon in the bottom-left corner of your screen. Remember that if you're using the AVD, pressing the Windows key on your keyboard will open the search on your laptop, not on the AVD!
+2. **Search for Git Bash**:
+    - Type "git" in the search bar. You should see "Git Bash" appear in the search results.
+3. **Open Git Bash**:
+    - Click on "Git Bash" to open the terminal.
+
+    <img src="./assets/screenshots/Screenshot_2024-07-16_142557.jpg" alt="Open Git Bash" style="max-width: 50vw;">
+
+    <img src="./assets/screenshots/Screenshot_2024-07-19_134937.jpg" alt="Verify Directory" style="max-width: 50vw;">    
+
+### Step 2: Verify Your Current Directory
+1. **Check your current directory**:
+    - Type `pwd` in the terminal and press Enter. This command displays the current directory path.
+    
+    - Type `ls -a` in the terminal and press Enter. This command lists the contents of the current directory, and the '-a' (all) flag ensures hidden files and folders are also listed. 
+    
+    We will come back to this later.
+
+    <img src="./assets/screenshots/Screenshot_2024-07-16_142904.jpg" alt="Add SSH Key to Agent" style="max-width: 50vw;">
+
+### Step 3: Generate a New SSH Key
+
+The following instructions are taken from the GitHub Documentation. 
+1. **Generate the SSH key**:
+    - Type `ssh-keygen -t ed25519 -C "your_email@example.com"` and press Enter.
+    - Replace `your_email@example.com` with your GitHub email address.
+
+2. **Follow the prompts**:
+    - Press Enter to accept the default file location.
+    - When prompted, you can add a passphrase for added security or press Enter to skip.
+
+### Step 4: Copy the SSH Key
+1. **Copy the SSH key to your clipboard**:
+    - If you `ls -a` again, you will see that a new hidden folder called `.ssh/` has been created to hold your SSH keys.
+    - Type `ls .ssh/` and press enter. You will see the two files: `id_ed25519` is your private key and should stay here on your computer, safe and out of sight! `id_25519.pub` is your public key. The contents of this is what you will now copy and add to your GitHub. 
+    - Type `clip < ~/.ssh/id_ed25519.pub` and press Enter. This command copies the SSH key to your clipboard.
+
+    <img src="./assets/screenshots/Screenshot_2024-07-16_172705.jpg" alt="Copy SSH Key" style="max-width: 50vw;">
+
+### Step 5: Add SSH Key to GitHub
+1. **Open GitHub and go to Settings**:
+    - Log in to your GitHub account.
+    - Click on your profile picture in the top-right corner and select "Settings".
+
+    <img src="./assets/screenshots/Screenshot_2024-07-19_142131.jpg" alt="GitHub Settings" style="max-width: 50vw;">
+
+2. **Navigate to SSH and GPG Keys**:
+    - In the left sidebar, click on "SSH and GPG keys".
+
+    <img src="./assets/screenshots/Screenshot_2024-07-19_142221.jpg" alt="SSH and GPG Keys" style="max-width: 50vw;">
+
+3. **Add a new SSH key**:
+    - Click on the "New SSH key" button.
+    - In the "Title" field, enter a descriptive name for the new key (e.g., "AVD_key").
+    - Paste your SSH key into the "Key" field by pressing Ctrl + V or right-clicking and selecting "Paste".
+    - Click the "Add SSH key" button to save the new key.
+
+    <img src="./assets/screenshots/Screenshot_2024-07-19_142449.jpg" alt="Add New SSH Key" style="max-width: 50vw;">
+
+### Step 6: Verify the Connection
+1. **Test your SSH connection**:
+    - Type `ssh -T git@github.com` in Git Bash and press Enter.
+    - If this is your first time connecting, you may be asked to confirm the connection. Type "yes" and press Enter.
+    - If successful, you should see a message like "Hi username! You've successfully authenticated, but GitHub does not provide shell access."
+
+You have now successfully generated an SSH key and added it to your GitHub. You can now communicate securely with your GitHub repositories without having to enter your username and personal access token at every command.
