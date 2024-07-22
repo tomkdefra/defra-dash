@@ -11,46 +11,25 @@ permalink: /learning-and-development/pathways/geospatial-science
 
 ## Overview
 
-The Geospatial Science Learning Journey provides a structured pathway to mastering spatial data analysis and GIS technologies using Python. This journey caters to beginner and intermediate learners, ensuring a comprehensive understanding of geospatial science.
+The Geospatial Science Pathway is a structured learning journey designed for GIS professionals who are looking to transition their workflows from GUI-based software to Python programming.
 
-## Learning Pathway
-
-### Python Pathway
-
-#### Pros:
-- Versatile and widely used in various industries.
-- Extensive libraries for geospatial analysis and data manipulation.
-- Integration with other data science and machine learning tools.
-
-#### Cons:
-- May require more initial setup compared to traditional GIS software.
-- Learning curve for complex spatial analyses.
-
-#### Beginner Level
-
-1. **Introduction to Geospatial Science with Python**
-   - **Duration:** 
-   - **Description:** Basics of geospatial science, key concepts, and an introduction to using Python for spatial data.
-
-2. **Fundamentals of GIS with Python**
+1. **Fundamentals of GIS with Python**
    - **Duration:** 
    - **Description:** Overview of GIS, including spatial data types, map projections, and basic GIS operations using Python libraries.
 
-3. **Spatial Data Collection with Python**
+2. **Spatial Data Collection with Python**
    - **Duration:** 
    - **Description:** Methods for collecting spatial data, including GPS and remote sensing, and integrating them into Python workflows.
 
-#### Intermediate Level
-
-4. **Geospatial Data Management with Python**
+3. **Geospatial Data Management with Python**
    - **Duration:** 
    - **Description:** Techniques for managing and organising geospatial data using Python libraries such as GeoPandas.
 
-5. **Spatial Analysis with Python**
+4. **Spatial Analysis with Python**
    - **Duration:** 
    - **Description:** Performing spatial analysis using Python, including spatial queries, overlay analysis, and network analysis.
 
-6. **Cartography and Map Design with Python**
+5. **Cartography and Map Design with Python**
    - **Duration:** 
    - **Description:** Principles of effective map design and creating maps using Python libraries such as Matplotlib and Folium.
 
