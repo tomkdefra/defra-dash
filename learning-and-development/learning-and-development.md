@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning and Development
-nav_order: 1
+nav_order: 3
 has_children: true
 permalink: /learning-and-development
 ---

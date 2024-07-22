@@ -4,6 +4,7 @@ title: Geospatial Science
 parent: Data Science Learning and Development Pathways
 grand_parent: Learning and Development
 nav_order: 2
+permalink: /learning-and-development/pathways/geospatial-science
 ---
 
 # Geospatial Science Learning Pathway

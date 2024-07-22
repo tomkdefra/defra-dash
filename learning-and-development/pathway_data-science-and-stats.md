@@ -3,7 +3,8 @@ layout: default
 title: Data Science and Statistics Pathway
 parent: Data Science Learning and Development Pathways
 grand_parent: Learning and Development
-nav_order: 2
+nav_order: 1
+permalink: /learning-and-development/pathways/data-science-and-stats
 ---
 
 # Data Science and Statistics Learning Pathway
