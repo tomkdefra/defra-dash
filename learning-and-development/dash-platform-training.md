@@ -1,11 +1,12 @@
 ---
 layout: default
-title: 2. Install Git
-parent: Get Started
+title: DASH Platform Training
+parent: Learning and Development
 nav_order: 2
+has_children: true
 ---
 
-# Version Control with Git
+# DASH Platform Training
 
 _“I name all my projects after myself. First 'Linux', now 'git'."_
 

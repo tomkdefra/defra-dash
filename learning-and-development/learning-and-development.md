@@ -9,6 +9,7 @@ permalink: /learning-and-development
 # Get Started
 {: .no_toc }
 
-This section provides instructions for setting up the accounts and completing MyIT 
-requests that you will need to use the DASH platform.
-{: .fs-6 .fw-300 }
+
+[DASH Platform Training](/defra-dash//learning-and-development/training){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Data Science Pathways](/defra-dash//learning-and-development/pathways){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
