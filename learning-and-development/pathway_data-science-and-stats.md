@@ -50,9 +50,11 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
-  <summary>
-    <button type="button" name="button" class="btn">Expand the Python learning pathway</button>
-  </summary>
+  <button type="button" name="button" class="btn">
+    <summary>
+      Expand the Python learning pathway
+    </summary>
+  </button>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
@@ -64,6 +66,9 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 | **Advanced Data Visualisation with Python** | good `zoute` drop | | yumm  |
 | **Machine Learning Basics with Python** | good `zoute` drop | | yumm  |
 
+### Further reading:
+- [**Understanding Pandas Dataframes**](https://www.databricks.com/glossary/pandas-dataframe){:target="_blank"}
+- [**Python FAQ**](https://docs.python.org/3/faq/index.html){:target="_blank"}
 </details>
 
 ## Learning Outcomes
