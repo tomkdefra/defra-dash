@@ -11,7 +11,7 @@ permalink: /learning-and-development/pathways/data-science-and-stats
 
 ## Overview
 
-The Data Science and Statistics Learning Journey offers a structured pathway to develop skills in data analysis, statistical methods, and data science techniques. This journey is split into two paths: R and Python, each catering to beginner and intermediate learners. This guide outlines the pros and cons of each path and details the courses available.
+The material linked below provides a structured pathway to develop skills in data analysis, statistical methods, and data science techniques. This journey is split into two paths, R and Python, depending on the programming language you prefer to use in your work. This guide outlines the pros and cons of each path and details some suggested courses and relevant reading.
 
 ## R Pathway
 
@@ -43,14 +43,13 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 #### Pros:
 - Versatile and widely used.
 - Extensive libraries for machine learning and data analysis.
-- Easier to learn for beginners with a programming background.
 - Ideal for developing operational pipelines and applications.
 
 #### Cons:
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
-<summary> **Expand the Python learning pathway** </summary>
+<summary> [Expand the Python learning pathway](#){: .btn .btn-blue } </summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
