@@ -24,7 +24,7 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 - Less versatile for general-purpose programming compared to Python.
 
 <details markdown="block">
-<summary>Expand the R learning pathway</summary>
+<summary> **Expand the R learning pathway** </summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
@@ -50,7 +50,7 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
-<summary {: .fs-6 } > **Expand the Python learning pathway** </summary>
+<summary> **Expand the Python learning pathway** </summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
