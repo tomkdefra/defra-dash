@@ -50,9 +50,11 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
+  <button type="button" name="button" class="btn">
   <summary>
-    <button type="button" name="button" class="btn">Expand the Python learning pathway</button>
+    Expand the Python learning pathway
   </summary>
+  </button>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
