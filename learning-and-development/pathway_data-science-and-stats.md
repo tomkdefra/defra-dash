@@ -49,7 +49,7 @@ The material linked below provides a structured pathway to develop skills in dat
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
-<summary> Expand the Python learning pathway </summary>
+<summary><mark><b> Expand the Python learning pathway </b></mark></summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
@@ -72,9 +72,3 @@ Upon completion of either pathway in the Data Science and Statistics Learning Jo
 - Understand the core principles of data science and statistical analysis.
 - Be skilled in data manipulation, visualisation, and exploratory analysis.
 - Be capable of building and interpreting statistical models.
-
-## Enrolment
-
-Ready to start your journey? [Enrol now](#) to gain the skills needed for a successful career in data science and statistics.
-
-For more details, visit our [Data Science and Statistics Learning Journey](#).

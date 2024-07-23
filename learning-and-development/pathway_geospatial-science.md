@@ -13,25 +13,15 @@ permalink: /learning-and-development/pathways/geospatial-science
 
 The Geospatial Science Pathway is a structured learning journey designed for GIS professionals who are looking to transition their workflows from GUI-based software to Python programming.
 
-1. **Fundamentals of GIS with Python**
-   - **Duration:** 
-   - **Description:** Overview of GIS, including spatial data types, map projections, and basic GIS operations using Python libraries.
+| Course       | Provider         | Level | Duration |
+|:-------------|:------------------|:------|
+| [**Working with Geospatial Data in Python**](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python){:target="_blank"} | Datacamp | Intermediate | 4 hours  |
+| [**Visualising Geospatial Data in Python**](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python){:target="_blank"} | Datacamp |  Intermediate | 4 hours  |
 
-2. **Spatial Data Collection with Python**
-   - **Duration:** 
-   - **Description:** Methods for collecting spatial data, including GPS and remote sensing, and integrating them into Python workflows.
+### Further Reading
+- [**GeoPandas documentation**](https://geopandas.org/en/stable/docs.html): GeoPandas is a foundational library for geospatial work in Python.
+- [**Automating GIS Processes**](https://autogis-site.readthedocs.io/en/latest/index.html): A thorough course for intermediate level python users who want to automate their geospatial workflows. Developed at the Department of Geosciences and Geography, University of Helsinki, Finland.
 
-3. **Geospatial Data Management with Python**
-   - **Duration:** 
-   - **Description:** Techniques for managing and organising geospatial data using Python libraries such as GeoPandas.
-
-4. **Spatial Analysis with Python**
-   - **Duration:** 
-   - **Description:** Performing spatial analysis using Python, including spatial queries, overlay analysis, and network analysis.
-
-5. **Cartography and Map Design with Python**
-   - **Duration:** 
-   - **Description:** Principles of effective map design and creating maps using Python libraries such as Matplotlib and Folium.
 
 ## Learning Outcomes
 
@@ -39,9 +29,3 @@ Upon completion of the Python Pathway in the Geospatial Science Learning Journey
 - Understand the core principles of geospatial science and GIS technology.
 - Be skilled in collecting, managing, and analysing spatial data using Python.
 - Be capable of performing advanced geospatial analyses and creating effective geospatial visualisations.
-
-## Enrolment
-
-Ready to start your journey? [Enrol now](#) to gain the skills needed for a successful career in geospatial science.
-
-For more details, visit our [Geospatial Science Learning Journey](#).

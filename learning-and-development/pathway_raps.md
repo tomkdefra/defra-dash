@@ -9,49 +9,61 @@ permalink: /learning-and-development/pathways/raps
 
 # Reproducible Analytical Pipelines Learning Pathway
 
+[Nicked from the ONS...](https://datasciencecampus.ons.gov.uk/capability/data-science-campus-faculty/reproducible-analytical-pipeline-journey/){: .btn }
+
 ## Overview
 
-The Reproducible Analytical Pipelines (RAP) Learning Journey is structured to help analysts develop robust, repeatable, and efficient data analysis workflows. This pathway focuses on using Python, R, and version control systems like Git, suitable for beginners and intermediate users.
+Analysis is a costly venture. Reporting is time-consuming, laborious work that often involves analysts disappearing for months behind a monitor. Once a report is published, it is essential that it stands up to scrutiny.  That may involve pulling the analyst off other pressing projects to reprise their work, adding to delays on different workstreams. If only there was a better way… 
 
-## Learning Pathway
+Reproducible Analytical Pipelines are programs that automate the trouble of ingesting, processing, modelling and reporting data. RAPs should be robust, employing tests to provide assurance. They automate the manual elements of analytical work, presenting opportunities for impressive efficiencies in your teams. RAPs connect data ingestion right through to publication, freeing up that analyst to build the chat-bot you always wanted. Published figures can be independently verified by other analysts with access to the pipeline, simply by clicking ‘run’ – that’s what puts the R in RAP. 
 
-### Python Pathway
+This learning journey will help participants gain the tools to create Reproducible Analytical Pipelines (RAP), a key part of producing high quality outputs. Participants will learn how to use important components of RAP in Python and R, improving their programming skills. Participants are expected to have a working knowledge of Python or R for data analysis already. 
 
-#### Pros:
-- Extensive libraries for data analysis.
-- Strong automation and reproducibility support.
-- Broad industry and academic use.
+## Learning outcomes
 
-#### Cons:
-- Steeper learning curve for non-programmers.
-- Complex setup for integration with other systems.
+Learners should be able to understand:
 
-#### Beginner Level
+- What reproducible analytical pipelines are, and what components are involved
+- How to write cleaner code
+- How to use the command line tools
+- How to use Git for version control
+- How to better structure code
+- How to write basic unit tests to test code
 
-1. **Introduction to Reproducible Analytical Pipelines**
-   - **Duration:** 2 hours
-   - **Description:** Overview of RAP concepts, importance of reproducibility, and basic Python applications.
+## Pathway Detail
 
-2. **Version Control with Git**
-   - **Duration:** 3 hours
-   - **Description:** Fundamentals of version control, focusing on Git for tracking and sharing code changes.
+The RAP journey begins with an introduction to the programme framework of choice. Clean code is then covered to help establish good programming habits from the outset. Command line basics introduces important principles for efficiently managing computer files and operations. This course improves familiarity with software required for interfacing with Git version control, a powerful, free version control solution widely used by programmers. Modular programming helps programmers to logically structure more complex scripts into the units of a robust pipeline. At this point, unit testing is introduced to help ensure functions and modules behave as required and that any future amendments to the developing code base do not degrade the quality of the pipeline outputs. Packaging and documentation helps analysts to take the next step in their programming journey, which is to package their code for the benefits of others within the analytical community. Finally, Continuous Integration helps to make sense of the automated tools that are available to developers when working with remote Git solutions such as GitHub, helping to improve the efficiency of software development and providing assurance to package users.
 
-3. **Data Management and Automation**
-   - **Duration:** 4 hours
-   - **Description:** Best practices in data management and automating data processing tasks with Python.
+## Prerequisites
 
-#### Intermediate Level
+Participants who have experience in or previously completed an introductory course in R or Python, plus an intermediate level course in applied R or Python will get the most benefit from this pathway.
 
-4. **Advanced Data Processing Techniques**
-   - **Duration:** 5 hours
-   - **Description:** In-depth methods for data cleaning, transformation, and automation to ensure reproducibility.
+## Courses in this learning journey
 
-5. **Building RAP with Python and R**
-   - **Duration:** 6 hours
-   - **Description:** Integrating Python and R to create comprehensive reproducible pipelines, including dynamic reporting and automated testing.
+This pathway can be completed using either the R or Python programming languages.
 
-## Enrolment
+# Reproducible Analytical Pipeline Journey in R
 
-Ready to enhance your data analysis skills? [Enrol now](#) in our Reproducible Analytical Pipelines Learning Journey.
+| Course Name                                    | Skill Level | Duration        |
+|------------------------------------------------|-------------|-----------------|
+| [Best Practice in Programming – Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)      | Beginner    | 15 minutes           |
+| Command Line Basics                            | Beginner    | 2 hours         |
+| Introduction to GIT                            | Beginner    | 4 hours         |
+| Statistics in R                                | Intermediate| 16 hours        |
+| Modular Programming                            | Intermediate| 4 to 5 hours    |
+| Introduction to Unit Testing                   | Intermediate| 4 hours         |
+| Packaging and Documentation                    | Intermediate| 4 hours         |
+| Introduction to Continuous Integration         | Advanced    | 2 hours         |
 
-For more details, visit our [Reproducible Analytical Pipelines Learning Pathway](#).
+# Reproducible Analytical Pipeline Journey in Python
+
+| Course Name                                    | Skill Level | Duration        |
+|------------------------------------------------|-------------|-----------------|
+| [Best Practice in Programming – Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)      | Beginner    | 15 minutes          |
+| Command Line Basics                            | Beginner    | 2 hours         |
+| Introduction to GIT                            | Beginner    | 4 hours         |
+| Statistics in Python                           | Intermediate| 16 hours        |
+| Modular Programming                            | Intermediate| 4 to 5 hours    |
+| Introduction to Unit Testing                   | Intermediate| 4 hours         |
+| Packaging and Documentation                    | Intermediate| 4 hours         |
+| Introduction to Continuous Integration         | Advanced    | 2 hours         |
