@@ -19,11 +19,10 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 
 #### Pros:
 - Strong statistical analysis capabilities.
-- Extensive library of packages for data manipulation and visualisation.
-- Preferred in academia and research.
+- Commonly taught in academia and research.
 
 #### Cons:
-- Steeper learning curve for those without a programming background.
+- Poorly suited to building operational pipelines.
 - Less versatile for general-purpose programming compared to Python.
 
 
@@ -39,17 +38,18 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 ### Python Pathway
 
 #### Pros:
-- Versatile and widely used in various industries.
+- Versatile and widely used.
 - Extensive libraries for machine learning and data analysis.
 - Easier to learn for beginners with a programming background.
+- Ideal for developing operational pipelines and applications.
 
 #### Cons:
 - Less specialised for statistical analysis compared to R.
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
-| **Introduction to Data Science with Python** | good swedish fish | | nice  |
-| **Fundamentals of Statistics with Python** | good and plenty |   | nice  |
+| [**Introduction to Data Science with Python**](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) | good swedish fish | Beginner | nice  |
+| [**Introduction to Statistics with Python**](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python) | good and plenty |  Intermediate | nice  |
 | **Data Wrangling with Python** | good `oreos` |      | hmm   |
 | **Exploratory Data Analysis (EDA) with Python** | good `zoute` drop | | yumm  |
 | **Statistical Modelling with Python** | good `zoute` drop | | yumm  |
