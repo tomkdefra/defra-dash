@@ -24,7 +24,7 @@ The material linked below provides a structured pathway to develop skills in dat
 - Less versatile for general-purpose programming compared to Python.
 
 <details markdown="block">
-<summary> **Expand the R learning pathway** </summary>
+<summary><mark><b> Expand the R learning pathway </b></mark></summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
@@ -49,7 +49,7 @@ The material linked below provides a structured pathway to develop skills in dat
 - Less specialised for statistical analysis compared to R.
 
 <details markdown="block">
-<summary> [Expand the Python learning pathway](#){: .btn .btn-blue } </summary>
+<summary> Expand the Python learning pathway </summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
