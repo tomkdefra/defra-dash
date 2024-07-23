@@ -49,12 +49,10 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 #### Cons:
 - Less specialised for statistical analysis compared to R.
 
-<button type="button" name="button" class="btn">
-  <details markdown="block">
-    <summary>
-      Expand the Python learning pathway
-    </summary>
-</button>
+<details markdown="block">
+  <button type="button" name="button" class="btn">Expand the Python learning pathway</button>
+  <summary>
+  </summary>
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
