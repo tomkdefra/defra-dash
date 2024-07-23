@@ -8,6 +8,7 @@ permalink: /learning-and-development/platform-training
 ---
 
 # DASH Platform Training
+{: .no_toc }
 
 _“I name all my projects after myself. First 'Linux', now 'git'."_
 
