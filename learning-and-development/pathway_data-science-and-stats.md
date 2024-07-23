@@ -48,8 +48,8 @@ The Data Science and Statistics Learning Journey offers a structured pathway to 
 
 | Course       | Provider         | Level | Duration |
 |:-------------|:------------------|:------|
-| [**Introduction to Data Science with Python**](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) | good swedish fish | Beginner | nice  |
-| [**Introduction to Statistics with Python**](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python) | good and plenty |  Intermediate | nice  |
+| [**Introduction to Data Science with Python**](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) | Datacamp | Beginner | nice  |
+| [**Introduction to Statistics with Python**](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python) | Datacamp |  Intermediate | nice  |
 | **Data Wrangling with Python** | good `oreos` |      | hmm   |
 | **Exploratory Data Analysis (EDA) with Python** | good `zoute` drop | | yumm  |
 | **Statistical Modelling with Python** | good `zoute` drop | | yumm  |

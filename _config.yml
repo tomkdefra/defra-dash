@@ -12,6 +12,8 @@ url: https://tomkdefra.github.io/defra-dash/
 aux_links:
   DASH Repository: https://github.com/orgs/Defra-Data-Science-Centre-of-Excellence/teams/dash/repositories
 
+nav_external_links_new_tab: true
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
